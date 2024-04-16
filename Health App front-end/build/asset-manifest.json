@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Health-Plus/static/css/main.e6037c53.css",
+    "main.js": "/Health-Plus/static/js/main.bc6f7bde.js",
+    "static/media/doctor-book-appointment.png": "/Health-Plus/static/media/doctor-book-appointment.16646b4af6e0be78fba1.png",
+    "static/media/profile-2.png": "/Health-Plus/static/media/profile-2.4752a9db34458eeffcfa.png",
+    "static/media/profile-1.png": "/Health-Plus/static/media/profile-1.0261bb4efe7a9075c56a.png",
+    "static/media/doctor-group.png": "/Health-Plus/static/media/doctor-group.01394386d8270bd40bc1.png",
+    "static/media/profile-3.png": "/Health-Plus/static/media/profile-3.530bb2fd7ece3dd3b3be.png",
+    "static/media/profile-4.png": "/Health-Plus/static/media/profile-4.3c44185ab9c84614038f.png",
+    "index.html": "/Health-Plus/index.html",
+    "main.e6037c53.css.map": "/Health-Plus/static/css/main.e6037c53.css.map",
+    "main.bc6f7bde.js.map": "/Health-Plus/static/js/main.bc6f7bde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6037c53.css",
+    "static/js/main.bc6f7bde.js"
+  ]
+}

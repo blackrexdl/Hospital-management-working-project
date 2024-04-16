@@ -1,0 +1,98 @@
+/* ContactForm Styles */
+*{
+    font-family: gilroy;
+}
+
+form {
+    justify-content: center;
+    scroll-behavior: smooth;
+    max-width: 1000vh !important;
+    margin: auto;
+    padding: 20px;
+    background-color: #1B2433;
+    border-radius: 8px;
+  }
+  
+  form div {
+    margin-bottom: auto;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    color: #ffffff;
+  }
+  
+  input, textarea {
+    width: 40vh;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #637697;
+    background-color: #5d6e8c00;
+    color: #ffffff;
+    border-radius: 30px;
+    box-sizing: border-box;
+    transition: border-color 0.3s ease-in-out;
+  }
+  
+  input:focus, textarea:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  input::placeholder, textarea::placeholder {
+    color: #aaa;
+    font-style: bold;
+  }
+  
+  input:focus::placeholder, textarea:focus::placeholder {
+    animation: slideOut 0.5s forwards;
+  }
+.title{
+  color: #1A8EFD;
+}
+  button {
+    background-color: #007bff;
+   
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    color: #1A8EFD;
+    background-color: transparent;
+    border: 2px solid #1A8EFD;
+  }
+  .status{
+    width: 100px;
+    margin-top: 10px;
+    font-family:gilroy;
+    font-size: 18px;
+  }
+  @keyframes slideOut {
+    100% {
+      opacity: 0;
+      transform: translateX(20%);
+    }
+  }
+  
+  /* Footer Section Styles */
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Adjust the color palette here */
+  :root {
+    --input-background: #f9f9f9;
+    --input-border: #ccc;
+    --input-focus-border: #007bff;
+    --button-background: #007bff;
+    --button-hover-background: #0056b3;
+  }
