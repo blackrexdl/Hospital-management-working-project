@@ -19,5 +19,5 @@ function DoctorCard(props) {
     </div>
   );
 }
-
+ 
 export default DoctorCard;
