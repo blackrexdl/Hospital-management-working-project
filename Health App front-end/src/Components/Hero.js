@@ -12,7 +12,7 @@ function Hero() {
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
-
+ 
   const handleBookAppointmentClick = () => {
     navigate("/appointment");
   };
