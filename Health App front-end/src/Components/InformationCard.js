@@ -12,5 +12,5 @@ function InformationCard(props) {
     </div>
   );
 }
-
+ 
 export default InformationCard;
