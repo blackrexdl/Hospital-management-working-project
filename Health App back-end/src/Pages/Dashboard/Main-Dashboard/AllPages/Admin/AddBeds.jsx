@@ -9,7 +9,7 @@ const notify = (text) => toast(text);
 
 const AddBeds = () => {
   const { data } = useSelector((store) => store.auth);
-
+ 
   const InitData = {
     roomNumber: "none",
     bedNumber: "",
