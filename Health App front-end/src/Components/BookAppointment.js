@@ -9,7 +9,7 @@ import { useNavigate  } from "react-router-dom";
 import "../Styles/BookAppointment.css";
 
 function BookAppointment() {
-  const navigate = useNavigate();
+  const navigate = useNavigate(); 
 
   const handleBookAppointmentClick = () => {
     navigate("/appointment");
