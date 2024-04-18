@@ -10,7 +10,7 @@ import {
 import "../Styles/Navbar.css";
 import { Link } from "react-router-dom";
 // import { toast } from "react-toastify";
-
+ 
 function Navbar() {
   const [nav, setNav] = useState(false);
   // const [isButtonDisabled, setIsButtonDisabled] = useState(false);
