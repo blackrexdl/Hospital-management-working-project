@@ -4,7 +4,7 @@ import { faHeartPulse, faTruckMedical, faTooth } from "@fortawesome/free-solid-s
 import "../Styles/Info.css";
 
 function Info() {
-  return (
+  return ( 
     <div className="info-section" id="services">
       <div className="info-title-content">
         <h3 className="info-title">
