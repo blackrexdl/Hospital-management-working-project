@@ -19,7 +19,7 @@ function About() {
           personalized healthcare. Our expert doctors offer online consultations
           and specialized services, prioritizing your well-being. Join us on
           this journey towards a healthier you.
-        </p>
+        </p> 
 
         <h4 className="about-text-title">Your Solutions</h4>
 
