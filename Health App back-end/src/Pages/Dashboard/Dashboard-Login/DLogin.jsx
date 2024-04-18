@@ -5,7 +5,7 @@ import admin from "../../../img/admin.jpg";
 import "./DLogin.css";
 import { useDispatch } from "react-redux";
 import { useNavigate } from "react-router-dom";
-import {
+import { 
   AdminLogin,
   DoctorLogin,
   forgetPassword,
